@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithControlsBlazor", "ExperimentWithControlsBlazor\ExperimentWithControlsBlazor.csproj", "{667F7B38-80FC-4F41-AB48-662B8716ED12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667F7B38-80FC-4F41-AB48-662B8716ED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667F7B38-80FC-4F41-AB48-662B8716ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667F7B38-80FC-4F41-AB48-662B8716ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667F7B38-80FC-4F41-AB48-662B8716ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92844A8A-F674-4018-A3E8-1618C2C53DDE}
+	EndGlobalSection
+EndGlobal
